@@ -6,7 +6,7 @@ import Lottie from "react-lottie";
 import * as animationData from "./logo.json";
 
 const name = "Riju Pramanik";
-export const siteTitle = "Riju's Blog";
+export const siteTitle = "Riju's Tech Blog";
 
 const defaultOptions = {
   loop: false,
@@ -22,6 +22,7 @@ export default function Layout({ children, home }) {
     <div className={styles.container}>
       <Head>
         <link rel="icon" href="/favicon.ico" />
+        <title>{siteTitle}</title>
         <meta
           name="description"
           content="Learn how to build a personal website using Next.js"
@@ -50,7 +51,7 @@ export default function Layout({ children, home }) {
             </Link>
             <h2 className={utilStyles.headingLg}>
               <Link href="/">
-                <a className={utilStyles.colorInherit}>{name}</a>
+                <a className={utilStyles.colorInherit}>{siteTitle}</a>
               </Link>
             </h2>
           </>
