@@ -3,7 +3,7 @@ title: "The how, why, and when of a tech blog"
 date: "2020-12-22"
 ---
 
-Most developers handle a wide variety of challeging tasks on a day to day basis, and that includes the meticulous art of being able to _google_ our bugs and find relavant solutions. 
+Most developers handle a wide variety of challenging tasks on a day to day basis, and that includes the meticulous art of being able to _google_ our bugs and find relevant solutions. 
 And you have to admit, you have copy-pasted code from a technical blog at some point in time. After all, we do stand on the shoulders of giants.
 >TODO - Insert flat earth turtle picture
 
