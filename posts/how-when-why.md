@@ -26,6 +26,6 @@ To put it simply, nothing demonstrates your skill better than being able to impa
 
 ## When to blog
 
-Honestly, whenever you want to, or have the time to. It might be a god tip to create a blog post whenever you solve a tricky problem or a persistent headache is resolved. For me, that happens at least once a week, so my goal is to do that as my New Year's resolution (fingers crossed 🤞).
+Honestly, whenever you want to, or have the time to. It might be a good tip to create a blog post whenever you solve a tricky problem or a persistent headache is resolved. For me, that happens at least once a week, so my goal is to do that as my New Year's resolution (fingers crossed 🤞).
 
 Stay tuned for further updates, and I'll see you in 2021!
